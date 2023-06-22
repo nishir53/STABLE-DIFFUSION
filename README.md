@@ -4,4 +4,10 @@
 ## Dataset used
 ### Flickr_8K Dataset
 ### https://drive.google.com/file/d/1n7VwEPyrzCIPPAZNi0vn7pwPGJvR7hBA/view?usp=sharing
+## Libraries Used
+### string - Processing caption text
+### OpenCV & NumPy - Reading and processing images
+### pickle - used to store and load models/data
+### Keras - High-level neural network framework on top of Tensorflow. We use it to build our own CNN+LSTM model on top of its pre-trained Xception model.
+
 
